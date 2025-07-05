@@ -1,0 +1,4 @@
+train: D:/CCPD2019/yolo_format/images/train
+val: D:/CCPD2019/yolo_format/images/val
+nc: 1
+names: ['license_plate']
